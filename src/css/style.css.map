@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,UAAU,CAAC;EACV,KAAK,EAAE,MAAM;EACb,MAAM,EAAE,IAAI;CAAG;;AFEhB,AAAA,YAAY,CAAC;EACX,SAAS,EAAE,IAAI;CAAG",
+    "sources": [
+        "../../testrepo/src/sass/style.sass",
+        "../../testrepo/src/sass/_colors.sass",
+        "../../testrepo/src/sass/_interface.sass"
+    ],
+    "names": [],
+    "file": "style.css"
+}
